@@ -31,37 +31,37 @@ export const recipes = [
     id: 1,
     image: recipe1,
     name: "Recipe Name",
-    price: "$20",
+    price: "2199",
   },
   {
     id: 2,
     image: recipe2,
     name: "Recipe Name",
-    price: "$13",
+    price: "1689",
   },
   {
     id: 3,
     image: recipe3,
     name: "Recipe Name",
-    price: "$17",
+    price: "₹2959",
   },
   {
     id: 4,
     image: recipe4,
     name: "Recipe Name",
-    price: "$22",
+    price: "₹1999",
   },
   {
     id: 5,
     image: recipe5,
     name: "Recipe Name",
-    price: "$14",
+    price: "₹1599",
   },
   {
     id: 6,
     image: recipe6,
     name: "Recipe Name",
-    price: "$20",
+    price: "₹2999",
   },
 ];
 
@@ -70,12 +70,12 @@ export const footerContacts = [
   {
     id: 1,
     icon: <HiOutlinePhone />,
-    text: "+959-883-271-929",
+    text: "+91 7770084548",
   },
   {
     id: 2,
     icon: <HiOutlineMail />,
-    text: "abee2002@gmail.com",
+    text: "rahulmohature0421@gmail.com",
   },
   {
     id: 3,
