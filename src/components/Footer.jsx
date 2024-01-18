@@ -12,9 +12,9 @@ const Footer = () => {
         <div>
           <div className="text-xl font-semibold mb-3">FoodZone</div>
           <p className="text-[1rem] mb-3">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum
-            asperiores, laboriosam qui labore eveniet ut iusto culpa animi
-            officiis quo?
+          Warm broths bathe ingredients like golden rays, infusing them with depth and soul.
+           Each spoonful is a sun-kissed hug,
+           a comforting warmth that spreads through your being with every delicious sip.
           </p>
           <div className="flex items-center gap-4">
             <span className="">Follow Us</span>
@@ -67,7 +67,7 @@ const Footer = () => {
       </div>
       <div className="flex flex-wrap justify-between gap-4 pb-8">
         <div className="">
-          Copyright &#169; <span className="font-bold">Ye Lin Ko</span>.All
+          Copyright &#169; <span className="font-bold">Rahul Mohuture</span>.All
           rights deserved.
         </div>
         <div className="flex gap-2">

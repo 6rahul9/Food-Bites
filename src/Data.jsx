@@ -31,13 +31,13 @@ export const recipes = [
     id: 1,
     image: recipe1,
     name: "Recipe Name",
-    price: "2199",
+    price: "₹2199",
   },
   {
     id: 2,
     image: recipe2,
     name: "Recipe Name",
-    price: "1689",
+    price: "₹1689",
   },
   {
     id: 3,
