@@ -27,9 +27,9 @@ const Recipe = () => {
                   </div>
                 </div>
                 <p className="text-[0.85rem] opacity-70 mb-4">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Expedita hic excepturi laudantium. Doloremque eveniet
-                  provident quo nihil ipsum?
+                These aren't just bites, they're keys that unlock doors to pure happiness. One bite melts away stress, 
+                another ignites laughter,
+                 and every mouthful leaves you with a warm glow that radiates from your belly to your soul.
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-xl font-semibold">{recipe.price}</span>

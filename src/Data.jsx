@@ -80,7 +80,7 @@ export const footerContacts = [
   {
     id: 3,
     icon: <BiMap />,
-    text: "16 Road TharkayTha,Yangon",
+    text: "Sonegaon, Nagpur, Maharashtra, India.",
   },
 ];
 

@@ -12,10 +12,9 @@ const About = () => {
             Best food in town awaits you
           </div>
           <p className="text-sm opacity-70">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis id,
-            iste accusantium velit ex voluptatem soluta delectus impedit, aut,
-            aliquam facere exercitationem? Accusamus inventore possimus quasi
-            labore, laudantium earum corporis.
+          Food Bites aren't just meals, they're portals. One bite might take you to a sun-drenched Italian piazza, 
+          the next to a bustling Thai night market.
+           Every flavor tells a story, transporting you with each chew.
           </p>
           <div className="btn">
             <a href="" className="text-white text-[0.85rem]">
@@ -35,10 +34,9 @@ const About = () => {
             provide in-home nursing.
           </div>
           <p className="text-sm opacity-70">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati
-            architecto aperiam at eius quisquam assumenda sequi voluptas eaque
-            dolorum iste ut sunt, doloremque eligendi, exercitationem
-            voluptatibus earum debitis illo consectetur!
+           
+Delicious food is a symphony for the senses, a tantalizing dance on the tongue that leaves you wanting more. But how to put that feeling into words?
+ Here are a few ways to describe the magic of a delicious meal:
           </p>
         </div>
         <div className="">
