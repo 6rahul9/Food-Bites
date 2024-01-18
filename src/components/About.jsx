@@ -9,7 +9,7 @@ const About = () => {
       <div className="grid md:grid-cols-2 items-center mb-10">
         <div className="flex flex-col justify-center items-start gap-6">
           <div className="sm:text-3xl text-xl font-bold mb-6">
-            Best food in town awaits you
+          You can find the best food in town.
           </div>
           <p className="text-sm opacity-70">
           Food Bites aren't just meals, they're portals. One bite might take you to a sun-drenched Italian piazza, 
@@ -30,8 +30,9 @@ const About = () => {
       <div className="grid md:grid-cols-2 gap-10 items-center">
         <div className="">
           <div className="sm:text-3xl text-xl font-bold mb-6">
-            Our team of registered nurses and skilled healthcare professionals
-            provide in-home nursing.
+             **A good chef is someone who has a passion for cooking, is creative, and has a deep understanding of ingredients and flavors.** 
+
+
           </div>
           <p className="text-sm opacity-70">
            
