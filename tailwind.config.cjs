@@ -14,7 +14,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        back: "#e5e1fe",
+        back: "#e1a2b7",
         glass: "rgba(255,255,255,0.15)"
       },
     },
